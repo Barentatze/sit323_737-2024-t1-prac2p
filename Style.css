@@ -1,0 +1,56 @@
+body{
+    background: #b2c8bb;
+}
+.title {
+    display: flex;
+    justify-content: center;
+}
+#Header {
+    height: 20px;
+    background: #458994;
+}
+#Mainpage{
+    Width:800px;
+    background: #fff5f7;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+.pers{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+html{
+    font-family: sans-serif;
+}
+.persItrduc{
+    width: 80%;
+    max-width: 720px;
+    min-width: 195px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.introlist{
+    width: 80%;
+    max-width: 720px;
+    min-width: 195px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#inform {
+    width: 80%;
+    max-width: 720px;
+    min-width: 195px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
